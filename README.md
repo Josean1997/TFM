@@ -4,6 +4,7 @@
 
 
 
+
                                                                       Resumen:
 En este trabajo se estudia la competencia en precios en un modelo de duopolio verticalmente diferenciado y en presencia de delegación estratégica, tanto desde una perspectiva estática como dinámica.
 El análisis estático, permite demostrar que la decisión óptima de los propietarios de las empresas consiste en fijar una remuneración a sus gestores basada en la combinación de beneficios y ventas que les incentive a comportarse de forma poco agresiva.
