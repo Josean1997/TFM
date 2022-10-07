@@ -10,6 +10,7 @@ El análisis estático, permite demostrar que la decisión óptima de los propie
 La incorporación de la perspectiva temporal en el estudio de la competencia en precios se realiza mediante la adopción de distintos esquemas de expectativas en la toma de decisiones de los gerentes, en un contexto de racionalidad limitada. Ello permite demostrar que, si ambas empresas adoptan expectativas adaptativas, el equilibrio de Bertrand-Nash será siempre localmente asintóticamente estable. Si al menos una de las empresas sigue la regla del gradiente, existe la posibilidad de que el equilibrio pierda su carácter atractor a medida que aumenta su velocidad de ajuste, surgiendo dinámicas cada vez más complejas. También se demuestra que la existencia de delegación estratégica y diferenciación vertical del producto puede afectar a la estabilidad dinámica del equilibrio.
 
                                                               Abstract
+[Presentación github.pdf](https://github.com/Josean1997/TFM/files/9736423/Presentacion.github.pdf)
 
 In this paper, price competition is studied in a vertically differentiated duopoly model and in the presence of strategic delegation, from both a static and dynamic perspective.
 Static analysis allows us to prove that the optimal decision of the firm owners consists of setting a remuneration for their managers based on the combination of profits and sales that leads them to behave in a non-aggressive way.
